@@ -1,0 +1,1115 @@
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Form3.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Form6.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Form21.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Form51.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Form52.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.repDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.sinDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.Form28.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modsalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modgrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajamat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.disponibil.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.disploc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.menupei.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.modhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.bajahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\bin\Release\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form28.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.menupei.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modsalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modgrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.disponibil.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form21.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form3.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajamat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form38.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.bajahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.horaAlum1.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form43.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.matCar.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.vacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.sinDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.modusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form47.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form48.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.disploc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form51.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form52.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Form6.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.repDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Release\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.nova.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.consplanalum.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.consplanalumdia.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.consmatxcar.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.horasvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.rephorasvac.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.repgrupsindoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\obj\Debug\S.I.B.A.ingresogrupo2.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Form28.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.ingresogrupo2.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menupei.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modsalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modgrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.disponibil.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Form21.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Form3.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajamat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.nova.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.consplanalum.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.consplanalumdia.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.consmatxcar.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.horasvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.sinDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.repgrupsindoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.rephorasvac.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.disploc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Form51.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Form52.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Form6.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.repDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.bajahrsvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.abmhrsvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.altahrsvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.modhrsvac.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programa\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmhrsvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahrsvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajahrsvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajausuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form28.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ingresogrupo2.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupei.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modhrsvac.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajaCarrera.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modgrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.disponibil.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form21.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajagrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajaDocente.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form3.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajamat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajaturno.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modhoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajahoras.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.nova.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consplanalum.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consplanalumdia.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consmatxcar.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasvacantes.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.sinDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modusuario.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.repgrupsindoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.rephorasvac.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.disploc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form51.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form52.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form6.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.repDoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Mis documentos\Visual Studio 2005\Projects\programabien\programa\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahrsvacantes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupei.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consplanalum.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consplanalumdia.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasvacantes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\es-ES\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\es-UY\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Release\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmhrsvacantes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altahrsvacantes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.armado_del_planillado.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.ingdatosusuarios.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.bajahrsvacantes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.horasturdir.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.ingresogrupo2.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menupadm.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menupalum.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menupdir.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menupdoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menupei.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menurepei.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.modhrsvac.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.disponibil.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.altahoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.nova.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.consplanalum.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.consplanalumdia.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.consmatxcar.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.horasvacantes.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.sinDoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.planilladodir.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.repgrupsindoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.rephorasvac.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.disploc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.repDoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.es-ES.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.es-UY.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\es-ES\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\es-UY\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Release\S.I.B.A.pdb
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.xml
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.xml
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmhrsvacantes.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahrsvacantes.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajahrsvacantes.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajausuario.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form28.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ingresogrupo2.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupei.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modhrsvac.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modCarrera.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajaCarrera.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modgrupo.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.disponibil.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form21.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajagrupo.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form3.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modMateria.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajamat.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modturno.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajaturno.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modhoras.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajahoras.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.nova.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consplanalum.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consplanalumdia.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consmatxcar.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasvacantes.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.sinDoc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.modusuario.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.repgrupsindoc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.rephorasvac.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.disploc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form51.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form52.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Form6.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.repDoc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.grupsindoc.rpt
+C:\Documents and Settings\Estudio\Escritorio\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.grupsindoc.rpt
+C:\Users\gabita\Google Drive\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmcarr.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmdoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmgrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmhoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmMat.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmsalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmturnos.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iabmusuarios.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtacarr.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtagrupo.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtahoras.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtaMat.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtasalon.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtaturno.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.iingdatosusuarios.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.imenupse.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.imenurepei.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Reporte1.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Reporte2.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.consultademateria.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.Reporte3.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\bin\Release\S.I.B.A.exe.config
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Release\S.I.B.A.exe
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Release\S.I.B.xml
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Release\S.I.B.A.pdb
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.ialtadoc.resources
+C:\Documents and Settings\Estudio\Escritorio\Usar ahora\programabien\programa\programa\programa\obj\Debug\S.I.B.A.bajasdocentes.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.bajasdocentes.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmcarr.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmdoc.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmgrupo.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmhoras.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmMat.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmsalon.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmturnos.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmusuarios.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtacarr.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtadoc.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtagrupo.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtahoras.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtaMat.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtasalon.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtaturno.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.iingdatosusuarios.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.imenupse.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.imenurepei.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.Reporte1.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.Reporte2.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.Reporte3.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.consultademateria.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.imenupadm.resources
+C:\Users\gabita\Desktop\Programa final\programa\programa\obj\Debug\S.I.B.A.imenupdoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.bajasdocentes.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmcarr.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmdoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmgrupo.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmhoras.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmMat.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmsalon.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmturnos.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iabmusuarios.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtacarr.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtadoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtagrupo.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtahoras.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtaMat.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtasalon.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ialtaturno.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.iingdatosusuarios.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.imenupadm.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.imenupdoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.imenupse.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.imenurepei.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.Reporte1.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.Reporte2.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.Reporte3.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.consultademateria.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\BD Program\Programa final\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\S.I.B.A.exe.config
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.bajasdocentes.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmcarr.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmgrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmhoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmMat.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmsalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmturnos.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iabmusuarios.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtacarr.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtadoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtagrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtahoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtaMat.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtasalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ialtaturno.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iingdatosusuarios.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenupadm.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenupdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenupse.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenurepei.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.Reporte1.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.Reporte2.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.Reporte3.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.consultademateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iasignargrupadoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iconshordoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iconsultademateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenureportse.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iReporte3.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.i2Reporte.rpt
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iReporte2.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.i1Reporte.rpt
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.ihorasturdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenupalum.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.imenupdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\programa\obj\Debug\S.I.B.A.iReporte1.resources
+C:\SIBA\programa\bin\Debug\S.I.B.A.exe.config
+C:\SIBA\programa\obj\Debug\S.I.B.A.exe
+C:\SIBA\programa\obj\Debug\S.I.B.xml
+C:\SIBA\programa\obj\Debug\S.I.B.A.pdb
+C:\SIBA\programa\bin\Debug\S.I.B.A.exe
+C:\SIBA\programa\bin\Debug\S.I.B.A.pdb
+C:\SIBA\programa\bin\Debug\S.I.B.xml
+C:\SIBA\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\SIBA\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\SIBA\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\SIBA\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\SIBA\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\SIBA\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\SIBA\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\SIBA\programa\obj\Debug\S.I.B.A.i1Reporte.rpt
+C:\SIBA\programa\obj\Debug\S.I.B.A.i2Reporte.rpt
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.bajasdocentes.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmcarr.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmdoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmgrupo.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmhoras.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmMat.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmsalon.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmturnos.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iabmusuarios.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtacarr.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtadoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtagrupo.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtahoras.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtaMat.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtasalon.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ialtaturno.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iasignargrupadoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iconshordoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iconsultademateria.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ihorasturdir.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iingdatosusuarios.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenupadm.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenupalum.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenupdir.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenupdoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenupse.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenurepei.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.imenureportse.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iReporte1.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iReporte2.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.iReporte3.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.Reporte1.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.Reporte2.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.Reporte3.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.consultademateria.resources
+C:\SIBA\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\SIBA\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\SIBA\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\SIBA\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\SIBA\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\SIBA\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\SIBA\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\SIBA\programa\obj\Debug\sq\S.I.B.A.resources.dll
+F:\SIBA\programa\bin\Debug\S.I.B.A.exe.config
+F:\SIBA\programa\obj\Debug\S.I.B.A.exe
+F:\SIBA\programa\obj\Debug\S.I.B.xml
+F:\SIBA\programa\obj\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\S.I.B.A.exe.config
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\S.I.B.A.exe
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\S.I.B.A.pdb
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\S.I.B.xml
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\bin\Debug\sq\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.i1Reporte.rpt
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.i2Reporte.rpt
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmbajasdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmusuario.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.bajasdocentes.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.armado_del_planillado.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmcarr.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmgrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmhoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmMat.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmsalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmturnos.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iabmusuarios.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtacarr.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtadoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtagrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtahoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtaMat.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtasalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ialtaturno.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iasignargrupadoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iconshordoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iconsultademateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ihorasturdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iingdatosusuarios.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenupadm.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenupalum.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenupdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenupdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenupse.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenurepei.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.imenureportse.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.ingdatosusuarios.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.horasturdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iReporte1.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iReporte2.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.iReporte3.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altasalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menupadm.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menupalum.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menupdir.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menupdoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menurepei.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmcarreras.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altaCarrera.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmGrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altagrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmdocentes.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altaDocente.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.asignarGrupo.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altaMateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmMateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmturnos.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altaturno.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmhoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.altahoras.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menupse.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.menureportse.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.planilladodir.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.asignhoramat.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.abmSalon.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.conshordoc.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.Resources.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.Reporte1.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.Reporte2.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.Reporte3.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.consultademateria.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\programa.vbproj.GenerateResource.Cache
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.en-US.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.es-ES.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.es-UY.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.es-VE.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.pt-BR.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\S.I.B.A.login.sq.resources
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\en-US\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\es-ES\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\es-UY\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\es-VE\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\pt-BR\S.I.B.A.resources.dll
+C:\Users\gabita\Desktop\SIBA\programa\obj\Debug\sq\S.I.B.A.resources.dll
