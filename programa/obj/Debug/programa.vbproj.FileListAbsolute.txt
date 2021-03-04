@@ -1,4 +1,0 @@
-C:\Users\usuario\Google Drive\Compartidas\3° entrega\programabien\programa\programa\programa\bin\Debug\S.I.B.A.exe.config
-C:\Users\usuario\Google Drive\Compartidas\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.exe
-C:\Users\usuario\Google Drive\Compartidas\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.xml
-C:\Users\usuario\Google Drive\Compartidas\3° entrega\programabien\programa\programa\programa\obj\Debug\S.I.B.A.pdb
